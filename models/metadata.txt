@@ -1,0 +1,6 @@
+model_type: SVM
+test_f1: 0.9743504330446369
+train_samples: 348
+test_samples: 117
+n_features: 777
+classes: ['Focused', 'Drowsy', 'Distracted']
