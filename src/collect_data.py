@@ -6,6 +6,9 @@ Records short clips where the user maintains a single state throughout.
 
 import cv2
 from datetime import datetime
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).parent.parent))
 import config
 
 

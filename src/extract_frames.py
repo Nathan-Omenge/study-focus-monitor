@@ -6,6 +6,8 @@ Samples frames from clips, detects faces, and organizes by state.
 
 import cv2
 from pathlib import Path
+import sys
+sys.path.append(str(Path(__file__).parent.parent))
 from src.detection import load_cascades, detect_face_and_eyes, get_eye_region
 import config
 
