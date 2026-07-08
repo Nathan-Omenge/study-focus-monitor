@@ -68,7 +68,7 @@ networkx==3.6.1
 notebook==7.6.0
 notebook_shim==0.2.4
 numpy==2.5.1
-opencv-python==5.0.0.93
+opencv-python==4.10.0.84
 packaging==26.2
 pandas==3.0.3
 pandocfilters==1.5.1
