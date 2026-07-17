@@ -218,14 +218,14 @@ study-focus-monitor/
 ## Documentation
 
 - [Technical Report](docs/report/technical_report.md) - Full project documentation
-- [Final Report](docs/report/final_report.md) - Undergraduate-level report for submission
+- [Final Report](docs/report/project_report.md) - Project report for submission
 
 ## Author
 
 Nathan Orang'o  
 ID: 670637  
 DSA4050 Computer Vision  
-2024
+2026
 
 ## License
 
@@ -234,4 +234,3 @@ Educational project for DSA4050 Computer Vision course.
 ---
 
 **Repository**: https://github.com/Nathan-Omenge/study-focus-monitor  
-**Demo Video**: [Optional: Add link to demo video]
