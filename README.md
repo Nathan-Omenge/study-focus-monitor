@@ -218,8 +218,7 @@ study-focus-monitor/
 ## Documentation
 
 - [Technical Report](docs/report/technical_report.md) - Full project documentation
-- [Requirements Compliance](docs/requirements_compliance.md) - Requirement verification
-- [Project Plan](PROJECT_PLAN.md) - Development phases
+- [Final Report](docs/report/final_report.md) - Undergraduate-level report for submission
 
 ## Author
 
