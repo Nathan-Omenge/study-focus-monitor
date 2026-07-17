@@ -53,7 +53,7 @@ def test_webcam():
     
     ret, frame = cap.read()
     if ret:
-        print(f"✓ Webcam working. Frame shape: {frame.shape}")
+        print(f"Webcam working. Frame shape: {frame.shape}")
         cap.release()
         return True
     else:
@@ -72,7 +72,7 @@ def main():
     print("\nLoading cascade classifiers...")
     try:
         face_cascade, eye_cascade = load_cascades()
-        print("✓ Cascades loaded successfully")
+        print("Cascades loaded successfully")
     except Exception as e:
         print(f"Error loading cascades: {e}")
         sys.exit(1)
